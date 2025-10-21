@@ -29,10 +29,10 @@ Criar uma página pessoal em HTML utilizando a estrutura básica e as principais
 - [X] Adicionar tag `<h2>` com uma breve descrição sobre você (ex: "Estudante de Desenvolvimento Web")
 
 ### 4. Seção de Links Pessoais
-- [ ] Criar uma `<div>` com identificação para links pessoais
-- [ ] Adicionar tag `<h3>` com o título "Redes Sociais" ou "Contatos Profissionais"
-- [ ] Adicionar tag `<p>` com o texto "LinkedIn: " seguido de um `<span>` ou link para seu perfil
-- [ ] Adicionar tag `<p>` com o texto "GitHub: " seguido de um `<span>` ou link para seu perfil
+- [X] Criar uma `<div>` com identificação para links pessoais
+- [X] Adicionar tag `<h3>` com o título "Redes Sociais" ou "Contatos Profissionais"
+- [X] Adicionar tag `<p>` com o texto "LinkedIn: " seguido de um `<span>` ou link para seu perfil
+- [X] Adicionar tag `<p>` com o texto "GitHub: " seguido de um `<span>` ou link para seu perfil
 
 ### 5. Seção de Estudos Atuais
 - [ ] Criar uma `<div>` com identificação para estudos atuais
