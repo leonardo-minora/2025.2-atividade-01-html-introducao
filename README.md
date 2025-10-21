@@ -8,25 +8,25 @@ Criar uma página pessoal em HTML utilizando a estrutura básica e as principais
 ## Checklist para Construção do index.html
 
 ### Preparando para iniciar
-- [ ] Fork desse repositório para sua conta pessoal do gitub
-- [ ] Conectar o seu repositório a conta do [vercel](https://vercel.com)
-- [ ] Abrir o visual studio online no seu repositório
+- [X] Fork desse repositório para sua conta pessoal do gitub
+- [X] Conectar o seu repositório a conta do [vercel](https://vercel.com)
+- [X] Abrir o visual studio online no seu repositório
 
 ### 1. Estrutura Básica do HTML
-- [ ] Criar arquivo `index.html` na raiz do projeto
-- [ ] Adicionar a declaração `<!DOCTYPE html>` no início do arquivo
-- [ ] Criar a tag `<html>` com o atributo `lang="pt-BR"`
-- [ ] Adicionar a seção `<head>` dentro da tag `<html>`
+- [X] Criar arquivo `index.html` na raiz do projeto
+- [X] Adicionar a declaração `<!DOCTYPE html>` no início do arquivo
+- [X] Criar a tag `<html>` com o atributo `lang="pt-BR"`
+- [X] Adicionar a seção `<head>` dentro da tag `<html>`
 - [ ] Adicionar a seção `<body>` dentro da tag `<html>`
 
 ### 2. Configuração do Head
-- [ ] Adicionar tag `<meta charset="UTF-8">` para definir a codificação de caracteres
-- [ ] Adicionar tag `<meta name="viewport" content="width=device-width, initial-scale=1.0">` para responsividade
-- [ ] Adicionar tag `<title>` com um título para sua página pessoal (ex: "Minha Página Pessoal")
+- [X] Adicionar tag `<meta charset="UTF-8">` para definir a codificação de caracteres
+- [X] Adicionar tag `<meta name="viewport" content="width=device-width, initial-scale=1.0">` para responsividade
+- [X] Adicionar tag `<title>` com um título para sua página pessoal (ex: "Minha Página Pessoal")
 
 ### 3. Conteúdo do Body - Cabeçalho da Página
-- [ ] Adicionar tag `<h1>` com seu nome completo
-- [ ] Adicionar tag `<h2>` com uma breve descrição sobre você (ex: "Estudante de Desenvolvimento Web")
+- [X] Adicionar tag `<h1>` com seu nome completo
+- [X] Adicionar tag `<h2>` com uma breve descrição sobre você (ex: "Estudante de Desenvolvimento Web")
 
 ### 4. Seção de Links Pessoais
 - [ ] Criar uma `<div>` com identificação para links pessoais
